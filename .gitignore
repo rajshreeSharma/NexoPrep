@@ -25,3 +25,5 @@ dist-ssr
 *.sw?
 
 local_sessions/
+.env
+.env.*
